@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerEjercicio1", "TallerEjercicio1\TallerEjercicio1.csproj", "{6602EC92-7F8E-48D1-8DF9-561BAD27F34F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEUEjercicio", "BEUEjercicio\BEUEjercicio.csproj", "{29EA33FB-0B16-43B4-BEBF-5FC5D91B228B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6602EC92-7F8E-48D1-8DF9-561BAD27F34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6602EC92-7F8E-48D1-8DF9-561BAD27F34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6602EC92-7F8E-48D1-8DF9-561BAD27F34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6602EC92-7F8E-48D1-8DF9-561BAD27F34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EA33FB-0B16-43B4-BEBF-5FC5D91B228B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EA33FB-0B16-43B4-BEBF-5FC5D91B228B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EA33FB-0B16-43B4-BEBF-5FC5D91B228B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EA33FB-0B16-43B4-BEBF-5FC5D91B228B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B689EFF3-6D70-4C77-BC47-3BF715B6D6EA}
+	EndGlobalSection
+EndGlobal

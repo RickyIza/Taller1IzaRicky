@@ -1,0 +1,11 @@
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\bin\Debug\BEUEjercicio.dll.config
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\bin\Debug\BEUEjercicio.dll
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\bin\Debug\BEUEjercicio.pdb
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\bin\Debug\EntityFramework.dll
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\bin\Debug\EntityFramework.xml
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CopyComplete
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\obj\Debug\BEUEjercicio.dll
+C:\Users\rckik\source\repos\TallerEjercicio1\BEUEjercicio\obj\Debug\BEUEjercicio.pdb
